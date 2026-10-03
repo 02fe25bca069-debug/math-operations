@@ -4,3 +4,7 @@ addition=a+b
 subtraction=a-b
 print("addition=",addition)
 print("subtraction=",subtraction)
+multiplication=a*b
+division=a/b
+print("multiplication=",multiplication)
+print("division=",division)
